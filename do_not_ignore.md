@@ -60,3 +60,4 @@ pip install -r requirements.txt
 * run the "audio_energy.py" -> will generate an  energy.npy file.
 * finally run the "main.py" to start the generation.
 * Upon completion you will get a "generation.mp4" file in same folder as the main.py
+* *Make sure all the folders and directories are as is in this repository. Maintain the file structure.*
