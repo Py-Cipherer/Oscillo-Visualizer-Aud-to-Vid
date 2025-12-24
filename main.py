@@ -16,7 +16,7 @@ audio = AudioFileClip("audio/input.m4a")
 audio_duration = audio.duration
 
 writer = ffmpeg_writer.FFMPEG_VideoWriter(
-    "test_reel2.mp4",
+    "Generation.mp4",
     (1080, 1920),
     fps,
     codec="libx264",
@@ -39,3 +39,4 @@ for i, e in enumerate(energy):
 writer.close()
 audio.close()
 print("Progress complete.")
+
