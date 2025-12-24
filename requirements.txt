@@ -1,0 +1,8 @@
+openai-whisper
+torch
+numpy
+librosa
+opencv-python
+moviepy
+matplotlib
+tqdm
