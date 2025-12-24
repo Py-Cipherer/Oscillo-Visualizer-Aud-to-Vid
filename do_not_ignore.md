@@ -22,4 +22,4 @@ Steps:-
 * run the "transcribe.py" -> will create a transcript file.
 * run the "audio_energy.py" -> will generate an  energy.npy file.
 * finally run the "main.py" to start the generation.
-Upon completion you will get a "generation.mp4" file in same folder as the main.py
+* Upon completion you will get a "generation.mp4" file in same folder as the main.py
